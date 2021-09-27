@@ -1,6 +1,6 @@
 # ImprintSchedule
 
-ImprintSchedule a graphic user interface written in Matlab (Matlab R2019a, The MathWorks Inc., Natick, Massachusetts, USA) and exploiting Psychtoolbox-3 (the Psychophysics Toolbox extensions; Brainard, 1997; Pelli, 1997) to set and control screen presentation during behavioral experiments.
+ImprintSchedule is a custom graphic user interface written in Matlab (Matlab R2019a, The MathWorks Inc., Natick, Massachusetts, USA) and exploiting Psychtoolbox-3 (the Psychophysics Toolbox extensions; Brainard, 1997; Pelli, 1997) to set and control screen presentation during behavioral experiments.
 The program is designed mainly for experiments with chicks, exploting the imprinting period and allowing the test of animals with a dual choice paradigm. 
  
 This tool allows researchers to create their custom protocol of stimuli presentation to imprint and test animals, in a versatile but standardized and precise way without requiring computational skills.
