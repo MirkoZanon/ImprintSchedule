@@ -11,3 +11,24 @@ The presentation can be split into different steps, reported as days and session
 To minimize any position bias, all the presentations on the two different screens can be controlled in a pseudo-random way, balancing the amount of time the same set of stimuli is presented on each side.
 Since motion attracts the chick's attention, the program can display moving stimuli, creating a perceptively richer artificial environment. We implemented two different movements: a translatory motion, which consists of a horizontal oscillation of the image with a speed following a sinusoidal function (from which the amplitude and period of the oscillation can be controlled); a flickering motion, which consists of an appearance/disappearance of the image with user-defined timing. Even the vertical position of the image can be adjusted.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RUN THE PROGRAM
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Requisites:
+- Matlab (with Statistics and Machine Learning Toolbox installed)
+- Psychtoolboox-3
+
+Make sure to have a recent version of Matlab (2019 or later) and Psychtoolbox-3 (http://psychtoolbox.org/) installed.
+
+In order to open the programs just drag and drop the file of interest in the Matlab terminal.
+(If instead you want to visualize and modify the code, type ‘appdesigner’ in Matlab terminal and open the file of interest in the Matlab program that will appear).
+
+If you find some bugs or you have suggestions to improve the program, please contact me: mirko.zanon@unitn.it
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CITATION
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Please note that ImprintSchedule is based on a publication. If you use it successfully for your research please be so kind to cite our work:
+
+Zanon M, Lemaire BS, Vallortigara G. Steps towards a computational ethology: an automatized, interactive setup to investigate filial imprinting and biological predispositions. Biol Cybern. 2021 Jul 17. doi: 10.1007/s00422-021-00886-6. Epub ahead of print. PMID: 34272970.
